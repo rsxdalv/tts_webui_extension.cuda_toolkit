@@ -1,6 +1,7 @@
 import gradio as gr
 import subprocess
 import platform
+import shutil
 
 
 def install_cuda_toolkit(cuda_version):
