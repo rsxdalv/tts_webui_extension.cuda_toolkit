@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="extension_cuda_toolkit",
+    name="tts_webui_extension.cuda_toolkit",
     packages=setuptools.find_namespace_packages(),
     version="0.0.1",
     author="Your Name",
@@ -20,3 +20,4 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
 )
+
